@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calendar/static/css/main.26d7fa20.css",
+    "main.js": "/calendar/static/js/main.0ef26bd6.js",
+    "static/media/circle-close.svg": "/calendar/static/media/circle-close.4c580c13d29ddbccbb94a30289fac232.svg",
+    "index.html": "/calendar/index.html",
+    "static/media/en-US.cjs": "/calendar/static/media/en-US.c3a6319ea4f219498e6f.cjs",
+    "main.26d7fa20.css.map": "/calendar/static/css/main.26d7fa20.css.map",
+    "main.0ef26bd6.js.map": "/calendar/static/js/main.0ef26bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26d7fa20.css",
+    "static/js/main.0ef26bd6.js"
+  ]
+}
